@@ -57,6 +57,10 @@ Registro
 
 <img width="1364" height="716" alt="Captura de pantalla 2026-06-05 195402" src="https://github.com/user-attachments/assets/16197992-a21b-402c-8436-a8b6c7c55be7" />
 
+Diagrama:
+<img width="705" height="856" alt="image" src="https://github.com/user-attachments/assets/a9e4cd64-7f2c-47fe-98ca-ab718ec3050b" />
+
+
 ---
 
 Integrantes del Equipo
